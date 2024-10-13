@@ -35,4 +35,8 @@ The Airbnb power bi dashboard consists charts like bar charts and pie charts, ta
 * **calculated_host_listings_count** : Number of properties owned by the host on Airbnb 
 * **availability_365** : Number of days per year that the listing is available for booking
 
+### *Dashboard*
+<img width="508" alt="Airbnb dashboard" src="https://github.com/user-attachments/assets/714e548d-4710-4007-bf85-62a3eb753dd0">
+
+
 
