@@ -16,3 +16,23 @@ The Airbnb power bi dashboard consists charts like bar charts and pie charts, ta
 
 * This dataset contains around 49,000 observations with 16 features, including both numerical and categorical variables.
 
+#### *Variable Description*
+
+* **id** : A unique identifier for the listing 
+* **name** : Name of the listing 
+* **host_id** : A unique identifier for the host 
+* **host_name** : Name of the host 
+* **neighbourhood_group** : The main region of the city where the listing is located 
+* **neighbourhood** : The specific neighbourhood where the listing is located 
+* **latitude** : latitude coordinate of the listing 
+* **longitude** : longitude coordinate of the listing 
+* **room_type** : The type of room offered by the listing 
+* **price** : Nightly rental price 
+* **minimum_nights** : Minimum number of nights required to book the listing 
+* **number_of_reviews** : Total number of reviews left by guests 
+* **last_review** : Date of the last review 
+* **reviews_per_month** : Average number of reviews received per month 
+* **calculated_host_listings_count** : Number of properties owned by the host on Airbnb 
+* **availability_365** : Number of days per year that the listing is available for booking
+
+
