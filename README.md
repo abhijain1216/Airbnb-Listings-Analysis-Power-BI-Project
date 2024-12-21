@@ -1,4 +1,4 @@
-# Airbnb-Power-Bi-Dashboard
+# Airbnb-Listings-Analysis-Power-BI-Project
 
 ### *Objective*
 
